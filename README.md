@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-   <a href="https://github.com/rafaelmoura23?tab=repositories">
+   <a href="https://github.com/Edu1Sinico?tab=repositories">
     <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Edu1Sinico?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
   <a href="https://github.com/Edu1Sinico?tab=followers">
