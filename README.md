@@ -1,10 +1,4 @@
-    ______    __       ____ ____  
-   / ____/   / /_   __/_  / ____\
-  / /__	____/ / /  / / / / /__  ______  _____  ____
- / ___// __  / /  / / / /\___ \/ / __ \/ / __\/ __ \
-/ /___/ /_/ / /__/ / / /____/ / / / / / / /__/ /_/ /
-\____/\____/\_____/ /_/\_____/_/_/ /_/_/\__ /\____/
-
+Hello there!
 <!--
 **Edu1Sinico/Edu1Sinico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
