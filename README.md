@@ -53,4 +53,12 @@
 
 <hr>
 
+<div align="center">
+    <p align="centre"><b>Quantidade de Pessoas que visitaram essa página:</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{edu1sinico}/count.svg" /></p> 
+    <p align="centre"><b>Muito obrigado!</b></p>  
+    <br>
+</div>
+
+
 </div>
