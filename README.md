@@ -1,4 +1,4 @@
-**Olá, sejam bem-vindos ao meu perfil do Github! 😀**
+**Olá, sejam bem-vindos(as) ao meu perfil do Github! 😀**
 
 <hr>
 
