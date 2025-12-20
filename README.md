@@ -89,6 +89,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu1Sinico&layout=compact&hide_border=true&title_color=ffa500&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<div align="center">
+   <a href="https://github.com/Edu1Sinico?tab=repositories">
+    <img alt="repositorios" title="Repositorios" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Edu1Sinico?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
+  <a href="https://github.com/epicestudar?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Edu1Sinico?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+</div> 
+
 <hr>
 
 <div align="center">
