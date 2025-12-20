@@ -93,7 +93,7 @@
    <a href="https://github.com/Edu1Sinico?tab=repositories">
     <img alt="repositorios" title="Repositorios" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Edu1Sinico?color=55960c&style=for-the-badge&labelColor=488207&logo=star"></a> 
-  <a href="https://github.com/epicestudar?tab=followers">
+  <a href="https://github.com/Edu1Sinico?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Edu1Sinico?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 </div> 
 
