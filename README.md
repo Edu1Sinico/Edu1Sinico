@@ -100,7 +100,7 @@
 <hr>
 
 <div align="center">
-    <p align="centre"><b>Quantidade de Pessoas que visitaram essa página:</b></p>  
+    <p align="centre"><b>Quantidade de pessoas que visitaram esta página:</b></p>  
     <p align="center"><p align="center">
         <img src="https://komarev.com/ghpvc/?username=Edu1Sinico&color=orange&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
     </p> 
